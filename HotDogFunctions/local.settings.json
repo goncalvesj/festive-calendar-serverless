@@ -7,9 +7,9 @@
     "CustomVisionPredictionKey": "74f181dc48934a81937d185908e5c3d4",
     "CustomVisionProjectId": "17d67036-31ed-4e1e-acc6-57e147af7ac0",
     "CustomVisionPublishedName": "HotDogsDetectionModel",
-    "AzureSignalRConnectionString": "",
-    "AzureStorageConnectionString": "",
-    "CosmosDBConnection": "",
+    "AzureSignalRConnectionString":"Endpoint=https://hotdoganalysis207.service.signalr.net;AccessKey=DlfEHwv4RmSJMx8CNfafX/2HU0M+wbebR9YEecLQNzw=;Version=1.0;",
+    "AzureStorageConnectionString":"DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=hotdoganalysis207;AccountKey=Wh6NJF8L48xG6ja6nRSy/boMbOs988/dffZ8rQKUOkqdtHj0kG2NToh7vKoOo2JvQUC2q+hrFSBmZutNvchsHg==",
+    "CosmosDBConnection":"AccountEndpoint=https://hotdoganalysis207.documents.azure.com:443/;AccountKey=YAvcP7ENQnWO7yaKFbBG1ourCoUDd8FLxILMw5bbSLzYKZA83gSkZu894gQo7ZIEuQkim4CQFKXqoVzSGcJJyQ==;",
     "PowerBIHotDogsApi": "https://api.powerbi.com/beta/12bec8d7-324b-410c-ab22-58f935feab3f/datasets/7d2cc9cb-17dc-4efb-bd89-8993bcefb728/rows?key=oqpiLYQrR61xdBdULUVxX0Qle4y7E94CW6wfcLgfm7pku97cz9TAteV6c7bj7hxktE63l1c0gqGlsW9uCkTgBQ%3D%3D"
   },
   "Host": {
